@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"Game of Thrones Books",
+        "price": 3120,
+        "imgUrl":"/imgs/Book.jpg"
+    },
+    {
+        "id":2,
+        "name":"Macbook M1 Air",
+        "price": 85000,
+        "imgUrl":"/imgs/Macbook.jpg"
+    },
+    {
+        "id":3,
+        "name":"Air Jordan 1 'CHICAGO'",
+        "price": 15000,
+        "imgUrl":"/imgs/Shoes.jpg"
+    },
+    {
+        "id":4,
+        "name":"Royal Enfield Thunderbird",
+        "price": 180000,
+        "imgUrl":"/imgs/Bike.jpg"
+    }
+]
