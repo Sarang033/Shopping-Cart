@@ -19,8 +19,9 @@
     },
     {
         "id":4,
-        "name":"Royal Enfield Thunderbird",
+        "name":"Royal Enfield",
         "price": 180000,
         "imgUrl":"/imgs/Bike.jpg"
     }
+    
 ]
